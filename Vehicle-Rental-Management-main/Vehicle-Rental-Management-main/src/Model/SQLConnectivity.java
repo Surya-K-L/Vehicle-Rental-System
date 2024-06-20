@@ -6,7 +6,7 @@ public class SQLConnectivity {
 	static {		
 		String URL = "jdbc:mysql://localhost:3306/vehiclerentalsystem";
 		String USER = "root";
-		String PASSWORD = "Rokeshv@rm@2603";
+		String PASSWORD = "SuryaHr@7";
 		try {
 			connection = DriverManager.getConnection(URL, USER, PASSWORD);
 		} 
